@@ -1,4 +1,8 @@
 # TextMate Tomorrow Theme
+Forked by B-Con from theymaybecoders. Changes are purely for my own personal taste.
+
+---
+
 The TextMate version of [Tomorrow Theme](https://github.com/ChrisKempson/Tomorrow-Theme).
 
 ## Take a look!
